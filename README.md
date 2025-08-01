@@ -24,7 +24,7 @@ Cada aula tem cerca de **10 minutos**, com **roteiro prático**, **exemplos reai
 | 03  | Como resolver problemas do dia a dia com Python      | [YouTube](https://youtu.be/VhWZfgP0gGA) |
 | 04  | Projeto prático: Calculadora de frete                | [YouTube](https://youtu.be/ZjJkPeAsCWI) |
 | 05  | Monte um cronômetro com Python                       | [YouTube](https://youtu.be/HHrJqcMOMGU) |
-| 06  | Automatize o Bloco de Notas com PyAutoGUI            | [YouTube](https://youtube.com/@professoraamandaxavier) |
+| 06  | Automatize o Bloco de Notas com PyAutoGUI            | [YouTube](https://youtu.be/_URtVQKkApU) |
 | ... | ...                                                  | ...            |
 
 > 🔁 Este README será atualizado com os links de cada aula conforme os vídeos forem publicados no canal.
