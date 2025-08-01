@@ -1,0 +1,40 @@
+
+---
+
+### ✅ `automacao_bloco.txt`
+
+```python
+import pyautogui
+import time
+
+# Coletar nome do arquivo via terminal
+nome_arquivo = input("Digite o nome do arquivo (sem .txt): ")
+
+# Coletar mensagem a ser escrita
+mensagem = input("Digite a mensagem que será escrita no Bloco de Notas: ")
+
+# Mensagem de aguarde
+print("Aguarde, estamos preparando o ambiente pra você...")
+time.sleep(5)
+
+# Abrir o menu Iniciar
+pyautogui.press("win")
+time.sleep(1)
+pyautogui.write("bloco de notas")
+pyautogui.press("enter")
+time.sleep(2)
+
+# Escrever a mensagem
+pyautogui.write(mensagem)
+time.sleep(1)
+
+# Abrir janela de salvar
+pyautogui.hotkey("ctrl", "s")
+time.sleep(1)
+
+# Montar caminho completo do arquivo
+caminho_completo = fr"C:\Users\(seu nome de usuario)\Documents\automatiza-com-python\{nome_arquivo}.txt"
+
+# Digitar o nome do arquivo com caminho completo
+pyautogui.write(caminho_completo)
+pyautogui.press("enter")
