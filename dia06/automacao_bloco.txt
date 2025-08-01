@@ -1,4 +1,3 @@
-
 ---
 
 ### ✅ `automacao_bloco.txt`
