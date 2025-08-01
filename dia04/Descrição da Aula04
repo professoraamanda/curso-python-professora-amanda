@@ -1,0 +1,21 @@
+# Aula 04 — Condicionais com `if`, `elif` e `else`
+
+Nesta aula, criamos uma **calculadora de frete** que simula o custo de uma entrega com base em dois fatores:
+
+- 📏 Distância (em km)
+- 📦 Tipo de entrega: `normal` ou `expressa`
+
+O programa utiliza estruturas condicionais para calcular o preço final conforme o tipo de entrega escolhido.
+
+## 📌 Regras do frete:
+
+- Frete normal: R$ 0,50 por km
+- Frete expresso: R$ 0,80 por km
+- Tipo inválido → mostra mensagem de erro
+
+## 🧠 Conceitos abordados:
+
+- Entrada de dados com `input()` e conversão com `float()`
+- Condicionais: `if`, `elif`, `else`
+- Uso de `None` como controle de fluxo
+- Função `round()` para exibir valores arredondados
