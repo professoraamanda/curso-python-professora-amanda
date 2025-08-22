@@ -25,7 +25,7 @@ Cada aula tem cerca de **10 minutos**, com **roteiro prático**, **exemplos reai
 | 04  | Projeto prático: Calculadora de frete                | [YouTube](https://youtu.be/ZjJkPeAsCWI) |
 | 05  | Monte um cronômetro com Python                       | [YouTube](https://youtu.be/HHrJqcMOMGU) |
 | 06  | Automatize o Bloco de Notas com PyAutoGUI            | [YouTube](https://youtu.be/_URtVQKkApU) |
-| ... | ...                                                  | ...            |
+| 07  | Organizando lista de compras com Python              | [YouTube] |            |
 
 > 🔁 Este README será atualizado com os links de cada aula conforme os vídeos forem publicados no canal.
 
